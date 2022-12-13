@@ -31,9 +31,11 @@ forge版本：43.1.7
 
 ![2022-12-13 (11)](https://user-images.githubusercontent.com/73422207/207322847-11270481-996c-4663-92ff-261fa08dce3a.png)
 
-构建的话请使用jdk17 
+*构建的话请使用
+>jdk17 
 
-执行命令 ./gradlew build
+*执行命令
+>./gradlew build
 
 ***未来的大饼计划：***
 
