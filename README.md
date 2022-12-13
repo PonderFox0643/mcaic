@@ -8,6 +8,11 @@
 适配Minecraft版本：1.19.2
 forge版本：43.1.7
 
+* 支持的语言
+>中文 zh_cn
+>英语 en_us（Not human translation.)
+>日语 jp_jp (非人工翻訳)
+
 添加物品：
 1、诺艾儿的法杖
 
