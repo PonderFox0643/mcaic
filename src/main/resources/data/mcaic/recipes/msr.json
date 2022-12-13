@@ -1,0 +1,24 @@
+{
+  "group": "mcr_0",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "mcaic:magiccrystal"
+    },
+    "1": {
+      "item": "mcaic:staff"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "mcaic:magicstaff",
+    "count": 1
+  }
+}

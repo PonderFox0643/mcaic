@@ -1,0 +1,7 @@
+{
+  "parent": "mcaic:custom/bigmodel",
+  "textures": {
+    "0": "mcaic:blocks/big",
+    "particle": "mcaic:items/bigstaff"
+  }
+}

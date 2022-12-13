@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="mcaic"
+version="1.0.0"
+displayName="诺艾儿·柯涅尔的法杖（物理"
+credits="用MCreator创建的，真的很快欸，比基岩版创建都好使，Java大法好（bushi"
+displayURL="https://space.bilibili.com/395237104"
+logoFile="logo.png"
+authors="九尾狐白给使者"
+description='''
+来自游戏AliceInCradle
+'''
+
+[[dependencies.mcaic]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

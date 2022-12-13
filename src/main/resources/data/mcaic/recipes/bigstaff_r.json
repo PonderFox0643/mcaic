@@ -1,0 +1,24 @@
+{
+  "group": "bigstaff_0",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_block"
+    },
+    "1": {
+      "item": "minecraft:iron_block"
+    },
+    "2": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "mcaic:bigstaff",
+    "count": 1
+  }
+}
