@@ -8,6 +8,8 @@
 适配Minecraft版本：1.19.2
 forge版本：43.1.7
 
+（使用了MCreator真的很好用）
+
 * 支持的语言
 
 >中文 zh_cn
