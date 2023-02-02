@@ -3,7 +3,7 @@
 
 ***此项目为第一个版本，后续可能会继续更新***
 
-开通分支1.16.5，原因是1.16.5的生态还行，比如有catserver的支持
+开通分支[1.16.5](https://github.com/PonderFox0643/mcaic/tree/1.16.5)，原因是[1.16.5](https://github.com/PonderFox0643/mcaic/tree/1.16.5)的生态还行，比如有catserver的支持
 （这个分支会比1.19要快一些
 
 屑作，随便做做，算是游戏AliceInCradle的mc模组
