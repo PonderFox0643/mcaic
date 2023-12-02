@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mcaic:block/tbc",
+    "up": "mcaic:block/tbc",
+    "north": "mcaic:block/tbc",
+    "east": "mcaic:block/tbc",
+    "south": "mcaic:block/tbc",
+    "west": "mcaic:block/tbc",
+    "particle": "mcaic:block/tbc"
+  },
+  "render_type": "solid"
+}

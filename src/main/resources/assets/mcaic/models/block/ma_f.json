@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mcaic:block/magicf",
+    "particle": "mcaic:block/magicf"
+  },
+  "render_type": "cutout"
+}

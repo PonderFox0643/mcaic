@@ -1,0 +1,19 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "ginkiha - 紡ぐ者の森(Battle)",
+    "texture": "record_mcaic_no",
+    "description": "ginkiha - 紡ぐ者の森(Battle)",
+    "creativeTab": {
+      "value": "CUSTOM:Mcaic"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:mcaic_noel_battle"
+    },
+    "lengthInTicks": 2885,
+    "analogOutput": 0
+  }
+}

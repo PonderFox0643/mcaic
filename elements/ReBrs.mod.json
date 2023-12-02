@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "brs",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ReNoelBSP"
+      },
+      {
+        "value": "CUSTOM:ReNoelBSP"
+      },
+      {
+        "value": "CUSTOM:ReNoelBSP"
+      },
+      {
+        "value": "CUSTOM:ReNoelBSP"
+      },
+      {
+        "value": "CUSTOM:ReNoelBSP"
+      },
+      {
+        "value": "CUSTOM:ReNoelBSP"
+      },
+      {
+        "value": "CUSTOM:ReNoelBSP"
+      },
+      {
+        "value": "CUSTOM:ReNoelBSP"
+      },
+      {
+        "value": "CUSTOM:ReNoelBSP"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ReNoelBattle"
+    },
+    "name": "re_brs",
+    "namespace": "mod"
+  }
+}

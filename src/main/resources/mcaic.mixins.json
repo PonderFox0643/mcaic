@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "top.pf43.mcaic.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+	"McaicModRepairItemRecipeMixin"  ],
+  "injectors": {
+	"defaultRequire": 1
+  }
+}

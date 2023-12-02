@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="mcaic"
+version="0.0.1"
+displayName="mcaic"
+credits="使用了MCreator，比基岩版快，Java大法好（bushi）"
+displayURL="https://mcaic.aliceincradle.net/"
+logoFile="logo.png"
+authors="九尾狐白给使者（PonderFox0643）"
+description="这是一个在我的世界中的Alice In Cradle模组，至少是的"
+
+[[dependencies.mcaic]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.mcaic]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.1.0]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "brs",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mcaic:re_noel_bsp"
+    },
+    "1": {
+      "item": "mcaic:re_noel_bsp"
+    },
+    "2": {
+      "item": "mcaic:re_noel_bsp"
+    },
+    "3": {
+      "item": "mcaic:re_noel_bsp"
+    },
+    "4": {
+      "item": "mcaic:re_noel_bsp"
+    },
+    "5": {
+      "item": "mcaic:re_noel_bsp"
+    },
+    "6": {
+      "item": "mcaic:re_noel_bsp"
+    },
+    "7": {
+      "item": "mcaic:re_noel_bsp"
+    },
+    "8": {
+      "item": "mcaic:re_noel_bsp"
+    }
+  },
+  "result": {
+    "item": "mcaic:re_noel_battle",
+    "count": 1
+  }
+}

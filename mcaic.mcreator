@@ -1,0 +1,433 @@
+{
+  "mod_elements": [
+    {
+      "name": "Noel",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "noel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mcaic/models/item/noel.json",
+          "src/main/java/top/pf43/mcaic/item/NoelItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Mcaic",
+      "type": "tab",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mcaic",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Crystalstaff",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystalstaff",
+      "metadata": {
+        "files": [
+          "src/main/java/top/pf43/mcaic/item/CrystalstaffItem.java",
+          "src/main/resources/assets/mcaic/models/item/crystalstaff.json"
+        ]
+      }
+    },
+    {
+      "name": "Macrystal",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "macrystal",
+      "metadata": {
+        "files": [
+          "src/main/java/top/pf43/mcaic/item/MacrystalItem.java",
+          "src/main/resources/assets/mcaic/models/item/macrystal.json"
+        ]
+      }
+    },
+    {
+      "name": "Mastaff",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mastaff",
+      "metadata": {
+        "files": [
+          "src/main/java/top/pf43/mcaic/item/MastaffItem.java",
+          "src/main/resources/assets/mcaic/models/item/mastaff.json"
+        ]
+      }
+    },
+    {
+      "name": "NoelandT",
+      "type": "painting",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "noeland_t",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "ReNoelBattle",
+      "type": "musicdisc",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "re_noel_battle",
+      "metadata": {
+        "files": [
+          "src/main/java/top/pf43/mcaic/item/ReNoelBattleItem.java",
+          "src/main/resources/assets/mcaic/models/item/re_noel_battle.json"
+        ]
+      }
+    },
+    {
+      "name": "RecMaSta",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rec_ma_sta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mcaic/recipes/rec_ma_sta.json"
+        ]
+      }
+    },
+    {
+      "name": "ReNoelBSP",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "re_noel_bsp",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mcaic/models/item/re_noel_bsp.json",
+          "src/main/java/top/pf43/mcaic/item/ReNoelBSPItem.java"
+        ]
+      }
+    },
+    {
+      "name": "ReBrs",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "re_brs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mcaic/recipes/re_brs.json"
+        ]
+      }
+    },
+    {
+      "name": "MCAICTBC",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mcaictbc",
+      "metadata": {
+        "files": [
+          "src/main/java/top/pf43/mcaic/block/MCAICTBCBlock.java",
+          "src/main/resources/assets/mcaic/models/item/mcaictbc.json",
+          "src/main/resources/assets/mcaic/models/block/mcaictbc.json",
+          "src/main/resources/assets/mcaic/blockstates/mcaictbc.json"
+        ]
+      }
+    },
+    {
+      "name": "MaXm",
+      "type": "plant",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_xm",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mcaic/models/item/ma_xm.json",
+          "src/main/resources/assets/mcaic/models/block/ma_xm.json",
+          "src/main/java/top/pf43/mcaic/world/features/plants/MaXmFeature.java",
+          "src/main/resources/data/mcaic/worldgen/placed_feature/ma_xm.json",
+          "src/main/java/top/pf43/mcaic/block/MaXmBlock.java",
+          "src/main/resources/data/mcaic/forge/biome_modifier/ma_xm_biome_modifier.json",
+          "src/main/resources/assets/mcaic/blockstates/ma_xm.json",
+          "src/main/resources/data/mcaic/worldgen/configured_feature/ma_xm.json"
+        ]
+      }
+    },
+    {
+      "name": "MaDm",
+      "type": "plant",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_dm",
+      "metadata": {
+        "files": [
+          "src/main/java/top/pf43/mcaic/block/MaDmBlock.java",
+          "src/main/resources/data/mcaic/worldgen/placed_feature/ma_dm.json",
+          "src/main/resources/assets/mcaic/models/item/ma_dm.json",
+          "src/main/resources/assets/mcaic/models/block/ma_dm.json",
+          "src/main/java/top/pf43/mcaic/world/features/plants/MaDmFeature.java",
+          "src/main/resources/data/mcaic/worldgen/configured_feature/ma_dm.json",
+          "src/main/resources/assets/mcaic/blockstates/ma_dm.json",
+          "src/main/resources/data/mcaic/forge/biome_modifier/ma_dm_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "MaF",
+      "type": "plant",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_f",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mcaic/forge/biome_modifier/ma_f_biome_modifier.json",
+          "src/main/resources/data/mcaic/worldgen/placed_feature/ma_f.json",
+          "src/main/java/top/pf43/mcaic/block/MaFBlock.java",
+          "src/main/resources/assets/mcaic/blockstates/ma_f.json",
+          "src/main/resources/assets/mcaic/models/block/ma_f.json",
+          "src/main/resources/data/mcaic/worldgen/configured_feature/ma_f.json",
+          "src/main/java/top/pf43/mcaic/world/features/plants/MaFFeature.java",
+          "src/main/resources/assets/mcaic/models/item/ma_f.json"
+        ]
+      }
+    },
+    {
+      "name": "MaJm",
+      "type": "plant",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_jm",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mcaic/blockstates/ma_jm.json",
+          "src/main/java/top/pf43/mcaic/world/features/plants/MaJmFeature.java",
+          "src/main/resources/assets/mcaic/models/block/ma_jm.json",
+          "src/main/resources/data/mcaic/worldgen/placed_feature/ma_jm.json",
+          "src/main/resources/assets/mcaic/models/item/ma_jm.json",
+          "src/main/resources/data/mcaic/worldgen/configured_feature/ma_jm.json",
+          "src/main/resources/data/mcaic/forge/biome_modifier/ma_jm_biome_modifier.json",
+          "src/main/java/top/pf43/mcaic/block/MaJmBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "MaJue",
+      "type": "plant",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_jue",
+      "metadata": {
+        "files": [
+          "src/main/java/top/pf43/mcaic/world/features/plants/MaJueFeature.java",
+          "src/main/resources/data/mcaic/worldgen/placed_feature/ma_jue.json",
+          "src/main/resources/assets/mcaic/models/block/ma_jue.json",
+          "src/main/resources/data/mcaic/forge/biome_modifier/ma_jue_biome_modifier.json",
+          "src/main/resources/data/mcaic/worldgen/configured_feature/ma_jue.json",
+          "src/main/java/top/pf43/mcaic/block/MaJueBlock.java",
+          "src/main/resources/assets/mcaic/models/item/ma_jue.json",
+          "src/main/resources/assets/mcaic/blockstates/ma_jue.json"
+        ]
+      }
+    },
+    {
+      "name": "Mapgy",
+      "type": "plant",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mapgy",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mcaic/models/item/mapgy.json",
+          "src/main/resources/assets/mcaic/models/block/mapgy.json",
+          "src/main/resources/data/mcaic/forge/biome_modifier/mapgy_biome_modifier.json",
+          "src/main/resources/data/mcaic/worldgen/configured_feature/mapgy.json",
+          "src/main/resources/assets/mcaic/blockstates/mapgy.json",
+          "src/main/java/top/pf43/mcaic/world/features/plants/MapgyFeature.java",
+          "src/main/resources/data/mcaic/worldgen/placed_feature/mapgy.json",
+          "src/main/java/top/pf43/mcaic/block/MapgyBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "MaJy",
+      "type": "plant",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_jy",
+      "metadata": {
+        "files": [
+          "src/main/java/top/pf43/mcaic/block/MaJyBlock.java",
+          "src/main/resources/data/mcaic/worldgen/placed_feature/ma_jy.json",
+          "src/main/resources/data/mcaic/worldgen/configured_feature/ma_jy.json",
+          "src/main/resources/assets/mcaic/blockstates/ma_jy.json",
+          "src/main/resources/assets/mcaic/models/item/ma_jy.json",
+          "src/main/resources/assets/mcaic/models/block/ma_jy.json",
+          "src/main/resources/data/mcaic/forge/biome_modifier/ma_jy_biome_modifier.json",
+          "src/main/java/top/pf43/mcaic/world/features/plants/MaJyFeature.java"
+        ]
+      }
+    },
+    {
+      "name": "NoelPDD",
+      "type": "painting",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "noel_pdd",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "LMaRoge",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_ma_roge",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mcaic/models/block/l_ma_roge.json",
+          "src/main/resources/assets/mcaic/blockstates/l_ma_roge.json",
+          "src/main/java/top/pf43/mcaic/block/LMaRogeBlock.java",
+          "src/main/resources/assets/mcaic/models/item/l_ma_roge.json"
+        ]
+      }
+    },
+    {
+      "name": "LMaSagaTest",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_ma_saga_test",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mcaic/blockstates/l_ma_saga_test.json",
+          "src/main/resources/assets/mcaic/models/block/l_ma_saga_test.json",
+          "src/main/java/top/pf43/mcaic/block/LMaSagaTestBlock.java",
+          "src/main/resources/assets/mcaic/models/item/l_ma_saga_test.json"
+        ]
+      }
+    },
+    {
+      "name": "MaSagaTest",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_saga_test",
+      "metadata": {
+        "files": [
+          "src/main/java/top/pf43/mcaic/block/MaSagaTestBlock.java",
+          "src/main/resources/assets/mcaic/models/item/ma_saga_test.json",
+          "src/main/resources/assets/mcaic/blockstates/ma_saga_test.json",
+          "src/main/resources/assets/mcaic/models/block/ma_saga_test.json"
+        ]
+      }
+    },
+    {
+      "name": "Test1",
+      "type": "livingentity",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mcaic/models/item/test_1_spawn_egg.json",
+          "src/main/java/top/pf43/mcaic/client/renderer/Test1Renderer.java",
+          "src/main/java/top/pf43/mcaic/entity/Test1Entity.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "mcaic_noel_battle",
+      "files": [
+        "battle"
+      ],
+      "category": "record",
+      "subtitle": "ginkiha - 紡ぐ者の森(Battle)"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item_group.mcaic.mcaic": "Mcaic",
+      "item.mcaic.mastaff": "法杖小棍",
+      "painting.mcaic.noel_pdd.title": "Noel PDD",
+      "item.mcaic.crystalstaff": "诺艾儿·柯涅尔的大法杖",
+      "subtitles.mcaic_noel_battle": "ginkiha - 紡ぐ者の森(Battle)",
+      "block.mcaic.ma_dm": "魔法植物-大菌类",
+      "block.mcaic.ma_saga_test": "Ma Saga Test",
+      "block.mcaic.ma_jm": "魔法植物-尖蘑菇",
+      "painting.mcaic.noeland_t.title": "像素画：诺艾儿与老师",
+      "block.mcaic.mapgy": "魔法植物-蒲公英",
+      "item.mcaic.re_noel_battle": "ginkiha - 紡ぐ者の森(Battle)",
+      "subtitles.mcaic.noel.battle": "ginkiha - 紡ぐ者の森(Battle)",
+      "item.mcaic.test_1_spawn_egg": "Test 1 Spawn Egg",
+      "item.mcaic.macrystal": "法杖水晶",
+      "block.mcaic.ma_f": "魔法植物-花",
+      "block.mcaic.ma_jy": "魔法植物-蕨类叶子",
+      "item.mcaic.noel": "吉祥雾（物）",
+      "block.mcaic.mcaictbc": "MCAICTBC",
+      "item.mcaic.re_noel_bsp": "编织者森林（战斗曲）唱片碎片",
+      "item.mcaic.re_noel_battle.desc": "ginkiha - 紡ぐ者の森(Battle)",
+      "painting.mcaic.noel_pdd.author": "橋野みずは",
+      "block.mcaic.ma_jue": "魔法植物-蕨类",
+      "block.mcaic.l_ma_saga_test": "L Ma Saga Test",
+      "block.mcaic.ma_xm": "魔法植物-小菌类",
+      "entity.mcaic.test_1": "Test 1",
+      "painting.mcaic.noeland_t.author": "橋野みずは",
+      "block.mcaic.l_ma_roge": "L Ma Roge"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mcaic",
+    "modName": "mcaic",
+    "version": "0.0.1",
+    "description": "这是一个在我的世界中的Alice In Cradle模组，至少是的",
+    "author": "九尾狐白给使者（PonderFox0643）",
+    "websiteURL": "https://mcaic.aliceincradle.net/",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "disableForgeVersionCheck": false,
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "使用了MCreator，比基岩版快，Java大法好（bushi）",
+    "modElementsPackage": "top.pf43.mcaic",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300336712
+}

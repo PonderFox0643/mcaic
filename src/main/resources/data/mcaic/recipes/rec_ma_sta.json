@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "crecasta",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "mcaic:macrystal"
+    },
+    "1": {
+      "item": "mcaic:mastaff"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "mcaic:crystalstaff",
+    "count": 1
+  }
+}

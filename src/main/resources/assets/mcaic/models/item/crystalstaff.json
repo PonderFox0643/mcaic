@@ -1,0 +1,7 @@
+{
+  "parent": "mcaic:custom/crystalstaff",
+  "textures": {
+    "0": "mcaic:block/crystalstaff_tx",
+    "particle": "mcaic:item/crystal_staff"
+  }
+}

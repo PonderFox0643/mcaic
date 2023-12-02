@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 1,
+    "texture": "crystal_staff",
+    "customModelName": "crystalstaff:default",
+    "name": "诺艾儿·柯涅尔的大法杖",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Mcaic"
+    },
+    "harvestLevel": 3,
+    "efficiency": 6.0,
+    "attackSpeed": 3.0,
+    "enchantability": 22,
+    "damageVsEntity": 22.0,
+    "usageCount": 1440,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

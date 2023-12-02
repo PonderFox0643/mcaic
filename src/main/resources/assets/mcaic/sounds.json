@@ -1,0 +1,11 @@
+{
+  "mcaic_noel_battle": {
+    "subtitle": "subtitles.mcaic_noel_battle",
+    "sounds": [
+      {
+        "name": "mcaic:battle",
+        "stream": true
+      }
+    ]
+  }
+}
