@@ -1,0 +1,27 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "crystal_staff",
+    "customModelName": "crystalstaff:default",
+    "name": "Crystal Staff",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Mcaic"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 6.0,
+    "attackSpeed": 4.0,
+    "enchantability": 22,
+    "damageVsEntity": 14.0,
+    "usageCount": 1440,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

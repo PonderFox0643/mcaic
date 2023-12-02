@@ -1,0 +1,12 @@
+{
+  "mcaic.noel.battle": {
+    "category": "record",
+    "subtitle": "subtitles.mcaic.noel.battle",
+    "sounds": [
+      {
+        "name": "mcaic:battle",
+        "stream": true
+      }
+    ]
+  }
+}

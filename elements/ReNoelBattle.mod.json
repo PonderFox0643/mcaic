@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "record_mcaic_no",
+    "name": "Re Noel Battle",
+    "description": "ginkiha - 紡ぐ者の森(Battle)",
+    "creativeTab": {
+      "value": "CUSTOM:Mcaic"
+    },
+    "music": {
+      "value": "CUSTOM:mcaic.noel.battle"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

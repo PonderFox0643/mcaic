@@ -1,0 +1,274 @@
+{
+  "mod_elements": [
+    {
+      "name": "Noel",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "noel"
+    },
+    {
+      "name": "Mcaic",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mcaic"
+    },
+    {
+      "name": "Mastaff",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mastaff"
+    },
+    {
+      "name": "Macrystal",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "macrystal"
+    },
+    {
+      "name": "CrystalStaff",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_staff"
+    },
+    {
+      "name": "ReNoelBattle",
+      "type": "musicdisc",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "re_noel_battle"
+    },
+    {
+      "name": "MaF",
+      "type": "plant",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_f"
+    },
+    {
+      "name": "MaXm",
+      "type": "plant",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_xm"
+    },
+    {
+      "name": "MaDm",
+      "type": "plant",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_dm"
+    },
+    {
+      "name": "MaJm",
+      "type": "plant",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_jm"
+    },
+    {
+      "name": "MaJue",
+      "type": "plant",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_jue"
+    },
+    {
+      "name": "Mapgy",
+      "type": "plant",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mapgy"
+    },
+    {
+      "name": "MaJy",
+      "type": "plant",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_jy"
+    },
+    {
+      "name": "ReNoelBSP",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "re_noel_bsp"
+    },
+    {
+      "name": "ReNBrs",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "re_n_brs"
+    },
+    {
+      "name": "Test7",
+      "type": "livingentity",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_7"
+    },
+    {
+      "name": "Noeloldrm",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "noeloldrm",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Noelandt",
+      "type": "painting",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "noelandt"
+    },
+    {
+      "name": "NoelPD",
+      "type": "painting",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "noel_pd"
+    },
+    {
+      "name": "NoelPDD",
+      "type": "painting",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "noel_pdd"
+    },
+    {
+      "name": "MCAICTBC",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mcaictbc"
+    },
+    {
+      "name": "PnoelAtHD",
+      "type": "painting",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pnoel_at_hd"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "mcaic.noel.battle",
+      "files": [
+        "battle"
+      ],
+      "category": "record",
+      "subtitle": "ginkiha - 紡ぐ者の森(Battle)"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "block.mcaic.mcaictbc": "MCAICTBC",
+      "item.mcaic.noeloldrm_chestplate": "Noeloldrm 胸甲",
+      "item.mcaic.mastaff": "法杖小棍",
+      "item.mcaic.re_noel_bsp": "Re Noel BSP",
+      "block.mcaic.ma_dm": "MaDm",
+      "item.mcaic.re_noel_battle.desc": "ginkiha - 紡ぐ者の森(Battle)",
+      "block.mcaic.ma_jm": "MaJm",
+      "block.mcaic.mapgy": "Mapgy",
+      "item.mcaic.test_7_spawn_egg": "Test 7 Spawn Egg",
+      "item.mcaic.re_noel_battle": "Re Noel Battle",
+      "subtitles.mcaic.noel.battle": "ginkiha - 紡ぐ者の森(Battle)",
+      "item.mcaic.noeloldrm_helmet": "Noeloldrm 头盔",
+      "item.mcaic.noeloldrm_leggings": "Noeloldrm 护腿",
+      "block.mcaic.ma_jue": "MaJue",
+      "item.mcaic.macrystal": "Macrystal",
+      "itemGroup.tabmcaic": "Mcaic",
+      "block.mcaic.ma_f": "Ma F",
+      "item.mcaic.crystal_staff": "Crystal Staff",
+      "entity.mcaic.test_7": "Test 7",
+      "block.mcaic.ma_xm": "MaXm",
+      "item.mcaic.noeloldrm_boots": "Noeloldrm 靴子",
+      "block.mcaic.ma_jy": "MaJy",
+      "item.mcaic.noel": "Noel"
+    },
+    "zh_cn": {
+      "block.mcaic.mcaictbc": "MCAICTBC",
+      "item.mcaic.noeloldrm_chestplate": "旧式治疗师制服-上衣",
+      "item.mcaic.mastaff": "法杖小棍",
+      "item.mcaic.re_noel_bsp": "编织者森林（战斗曲）唱片碎片",
+      "block.mcaic.ma_dm": "魔法植物-大菌类",
+      "item.mcaic.re_noel_battle.desc": "ginkiha - 紡ぐ者の森(Battle)",
+      "block.mcaic.ma_jm": "魔法植物-尖蘑菇",
+      "block.mcaic.mapgy": "魔法植物-蒲公英",
+      "item.mcaic.test_7_spawn_egg": "Test 7 Spawn Egg",
+      "item.mcaic.re_noel_battle": "编织者森林（战斗曲）",
+      "subtitles.mcaic.noel.battle": "ginkiha - 紡ぐ者の森(Battle)",
+      "item.mcaic.noeloldrm_helmet": "旧式治疗师制服-帽子",
+      "item.mcaic.noeloldrm_leggings": "胖次和长筒袜（）",
+      "block.mcaic.ma_jue": "魔法植物-蕨类",
+      "item.mcaic.macrystal": "法杖水晶",
+      "itemGroup.tabmcaic": "Mcaic",
+      "block.mcaic.ma_f": "魔法植物-花",
+      "item.mcaic.crystal_staff": "诺艾儿·柯涅尔的大法杖",
+      "entity.mcaic.test_7": "Test 7",
+      "block.mcaic.ma_xm": "魔法植物-小菌类",
+      "item.mcaic.noeloldrm_boots": "旧式治疗师制服-鞋子",
+      "block.mcaic.ma_jy": "魔法植物-蕨类叶子",
+      "item.mcaic.noel": "Noel"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mcaic",
+    "modName": "mcaic16",
+    "version": "0.0.1",
+    "description": "这是一个在我的世界中的Alice In Cradle模组，至少是的",
+    "author": "九尾狐白给使者（PonderFox0643）",
+    "websiteURL": "http://www.ponderfox0643.top/",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "pack_icon",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "使用了MCreator，比基岩版快，Java大法好（bushi）",
+    "modElementsPackage": "com.pf43.mcaic",
+    "lockBaseModFiles": true
+  },
+  "mcreatorVersion": 202200120510
+}

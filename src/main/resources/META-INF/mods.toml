@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="mcaic"
+version="0.0.1"
+displayName="mcaic16"
+credits="使用了MCreator，比基岩版快，Java大法好（bushi）"
+displayURL="http://www.ponderfox0643.top/"
+logoFile="logo.png"
+authors="九尾狐白给使者（PonderFox0643）"
+description='''
+这是一个在我的世界中的Alice In Cradle模组，至少是的
+'''
+
+[[dependencies.mcaic]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

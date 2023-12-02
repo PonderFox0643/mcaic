@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mcaic:blocks/magicjy",
+    "particle": "mcaic:blocks/magicjy"
+  }
+}
