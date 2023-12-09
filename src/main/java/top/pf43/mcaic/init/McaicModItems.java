@@ -41,6 +41,12 @@ public class McaicModItems {
 	public static final RegistryObject<Item> L_MA_SAGA_TEST = block(McaicModBlocks.L_MA_SAGA_TEST);
 	public static final RegistryObject<Item> MA_SAGA_TEST = block(McaicModBlocks.MA_SAGA_TEST);
 	public static final RegistryObject<Item> TEST_1_SPAWN_EGG = REGISTRY.register("test_1_spawn_egg", () -> new ForgeSpawnEggItem(McaicModEntities.TEST_1, -1, -16777216, new Item.Properties()));
+	public static final RegistryObject<Item> MA_SAGA_QB = block(McaicModBlocks.MA_SAGA_QB);
+	public static final RegistryObject<Item> L_MA_SAGA_QB = block(McaicModBlocks.L_MA_SAGA_QB);
+	public static final RegistryObject<Item> MA_SAGA_BB = block(McaicModBlocks.MA_SAGA_BB);
+	public static final RegistryObject<Item> L_MA_SAGA_BB = block(McaicModBlocks.L_MA_SAGA_BB);
+	public static final RegistryObject<Item> L_MA_SAGA_BG = block(McaicModBlocks.L_MA_SAGA_BG);
+	public static final RegistryObject<Item> MA_SAGA_BG = block(McaicModBlocks.MA_SAGA_BG);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

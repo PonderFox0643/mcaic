@@ -17,7 +17,6 @@ import top.pf43.mcaic.init.McaicModTabs;
 import top.pf43.mcaic.init.McaicModSounds;
 import top.pf43.mcaic.init.McaicModPaintings;
 import top.pf43.mcaic.init.McaicModItems;
-import top.pf43.mcaic.init.McaicModFeatures;
 import top.pf43.mcaic.init.McaicModEntities;
 import top.pf43.mcaic.init.McaicModBlocks;
 
@@ -61,7 +60,6 @@ public class McaicMod {
 		McaicModEntities.REGISTRY.register(bus);
 
 		McaicModTabs.REGISTRY.register(bus);
-		McaicModFeatures.REGISTRY.register(bus);
 
 		McaicModPaintings.REGISTRY.register(bus);
 

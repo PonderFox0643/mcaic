@@ -1,0 +1,9 @@
+{
+  "parent": "mcaic:custom/masaga",
+  "textures": {
+    "all": "mcaic:block/masagaqb",
+    "particle": "mcaic:block/masagaqb",
+    "0": "mcaic:block/masagaqb"
+  },
+  "render_type": "solid"
+}

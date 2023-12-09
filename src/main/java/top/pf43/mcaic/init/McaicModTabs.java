@@ -35,6 +35,12 @@ public class McaicModTabs {
 				tabData.accept(McaicModBlocks.L_MA_SAGA_TEST.get().asItem());
 				tabData.accept(McaicModBlocks.MA_SAGA_TEST.get().asItem());
 				tabData.accept(McaicModItems.TEST_1_SPAWN_EGG.get());
+				tabData.accept(McaicModBlocks.MA_SAGA_QB.get().asItem());
+				tabData.accept(McaicModBlocks.L_MA_SAGA_QB.get().asItem());
+				tabData.accept(McaicModBlocks.MA_SAGA_BB.get().asItem());
+				tabData.accept(McaicModBlocks.L_MA_SAGA_BB.get().asItem());
+				tabData.accept(McaicModBlocks.L_MA_SAGA_BG.get().asItem());
+				tabData.accept(McaicModBlocks.MA_SAGA_BG.get().asItem());
 			})
 
 					.build());

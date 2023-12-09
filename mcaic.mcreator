@@ -157,14 +157,10 @@
       "registry_name": "ma_xm",
       "metadata": {
         "files": [
-          "src/main/resources/assets/mcaic/models/item/ma_xm.json",
           "src/main/resources/assets/mcaic/models/block/ma_xm.json",
-          "src/main/java/top/pf43/mcaic/world/features/plants/MaXmFeature.java",
-          "src/main/resources/data/mcaic/worldgen/placed_feature/ma_xm.json",
-          "src/main/java/top/pf43/mcaic/block/MaXmBlock.java",
-          "src/main/resources/data/mcaic/forge/biome_modifier/ma_xm_biome_modifier.json",
+          "src/main/resources/assets/mcaic/models/item/ma_xm.json",
           "src/main/resources/assets/mcaic/blockstates/ma_xm.json",
-          "src/main/resources/data/mcaic/worldgen/configured_feature/ma_xm.json"
+          "src/main/java/top/pf43/mcaic/block/MaXmBlock.java"
         ]
       }
     },
@@ -177,14 +173,10 @@
       "registry_name": "ma_dm",
       "metadata": {
         "files": [
-          "src/main/java/top/pf43/mcaic/block/MaDmBlock.java",
-          "src/main/resources/data/mcaic/worldgen/placed_feature/ma_dm.json",
-          "src/main/resources/assets/mcaic/models/item/ma_dm.json",
-          "src/main/resources/assets/mcaic/models/block/ma_dm.json",
-          "src/main/java/top/pf43/mcaic/world/features/plants/MaDmFeature.java",
-          "src/main/resources/data/mcaic/worldgen/configured_feature/ma_dm.json",
           "src/main/resources/assets/mcaic/blockstates/ma_dm.json",
-          "src/main/resources/data/mcaic/forge/biome_modifier/ma_dm_biome_modifier.json"
+          "src/main/java/top/pf43/mcaic/block/MaDmBlock.java",
+          "src/main/resources/assets/mcaic/models/item/ma_dm.json",
+          "src/main/resources/assets/mcaic/models/block/ma_dm.json"
         ]
       }
     },
@@ -197,13 +189,9 @@
       "registry_name": "ma_f",
       "metadata": {
         "files": [
-          "src/main/resources/data/mcaic/forge/biome_modifier/ma_f_biome_modifier.json",
-          "src/main/resources/data/mcaic/worldgen/placed_feature/ma_f.json",
           "src/main/java/top/pf43/mcaic/block/MaFBlock.java",
           "src/main/resources/assets/mcaic/blockstates/ma_f.json",
           "src/main/resources/assets/mcaic/models/block/ma_f.json",
-          "src/main/resources/data/mcaic/worldgen/configured_feature/ma_f.json",
-          "src/main/java/top/pf43/mcaic/world/features/plants/MaFFeature.java",
           "src/main/resources/assets/mcaic/models/item/ma_f.json"
         ]
       }
@@ -217,14 +205,10 @@
       "registry_name": "ma_jm",
       "metadata": {
         "files": [
+          "src/main/java/top/pf43/mcaic/block/MaJmBlock.java",
           "src/main/resources/assets/mcaic/blockstates/ma_jm.json",
-          "src/main/java/top/pf43/mcaic/world/features/plants/MaJmFeature.java",
-          "src/main/resources/assets/mcaic/models/block/ma_jm.json",
-          "src/main/resources/data/mcaic/worldgen/placed_feature/ma_jm.json",
           "src/main/resources/assets/mcaic/models/item/ma_jm.json",
-          "src/main/resources/data/mcaic/worldgen/configured_feature/ma_jm.json",
-          "src/main/resources/data/mcaic/forge/biome_modifier/ma_jm_biome_modifier.json",
-          "src/main/java/top/pf43/mcaic/block/MaJmBlock.java"
+          "src/main/resources/assets/mcaic/models/block/ma_jm.json"
         ]
       }
     },
@@ -237,11 +221,7 @@
       "registry_name": "ma_jue",
       "metadata": {
         "files": [
-          "src/main/java/top/pf43/mcaic/world/features/plants/MaJueFeature.java",
-          "src/main/resources/data/mcaic/worldgen/placed_feature/ma_jue.json",
           "src/main/resources/assets/mcaic/models/block/ma_jue.json",
-          "src/main/resources/data/mcaic/forge/biome_modifier/ma_jue_biome_modifier.json",
-          "src/main/resources/data/mcaic/worldgen/configured_feature/ma_jue.json",
           "src/main/java/top/pf43/mcaic/block/MaJueBlock.java",
           "src/main/resources/assets/mcaic/models/item/ma_jue.json",
           "src/main/resources/assets/mcaic/blockstates/ma_jue.json"
@@ -257,14 +237,10 @@
       "registry_name": "mapgy",
       "metadata": {
         "files": [
-          "src/main/resources/assets/mcaic/models/item/mapgy.json",
-          "src/main/resources/assets/mcaic/models/block/mapgy.json",
-          "src/main/resources/data/mcaic/forge/biome_modifier/mapgy_biome_modifier.json",
-          "src/main/resources/data/mcaic/worldgen/configured_feature/mapgy.json",
           "src/main/resources/assets/mcaic/blockstates/mapgy.json",
-          "src/main/java/top/pf43/mcaic/world/features/plants/MapgyFeature.java",
-          "src/main/resources/data/mcaic/worldgen/placed_feature/mapgy.json",
-          "src/main/java/top/pf43/mcaic/block/MapgyBlock.java"
+          "src/main/resources/assets/mcaic/models/block/mapgy.json",
+          "src/main/java/top/pf43/mcaic/block/MapgyBlock.java",
+          "src/main/resources/assets/mcaic/models/item/mapgy.json"
         ]
       }
     },
@@ -278,13 +254,9 @@
       "metadata": {
         "files": [
           "src/main/java/top/pf43/mcaic/block/MaJyBlock.java",
-          "src/main/resources/data/mcaic/worldgen/placed_feature/ma_jy.json",
-          "src/main/resources/data/mcaic/worldgen/configured_feature/ma_jy.json",
           "src/main/resources/assets/mcaic/blockstates/ma_jy.json",
           "src/main/resources/assets/mcaic/models/item/ma_jy.json",
-          "src/main/resources/assets/mcaic/models/block/ma_jy.json",
-          "src/main/resources/data/mcaic/forge/biome_modifier/ma_jy_biome_modifier.json",
-          "src/main/java/top/pf43/mcaic/world/features/plants/MaJyFeature.java"
+          "src/main/resources/assets/mcaic/models/block/ma_jy.json"
         ]
       }
     },
@@ -361,6 +333,102 @@
           "src/main/java/top/pf43/mcaic/entity/Test1Entity.java"
         ]
       }
+    },
+    {
+      "name": "MaSagaQB",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_saga_qb",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mcaic/models/item/ma_saga_qb.json",
+          "src/main/resources/assets/mcaic/blockstates/ma_saga_qb.json",
+          "src/main/resources/assets/mcaic/models/block/ma_saga_qb.json",
+          "src/main/java/top/pf43/mcaic/block/MaSagaQBBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "LMaSagaQB",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_ma_saga_qb",
+      "metadata": {
+        "files": [
+          "src/main/java/top/pf43/mcaic/block/LMaSagaQBBlock.java",
+          "src/main/resources/assets/mcaic/blockstates/l_ma_saga_qb.json",
+          "src/main/resources/assets/mcaic/models/block/l_ma_saga_qb.json",
+          "src/main/resources/assets/mcaic/models/item/l_ma_saga_qb.json"
+        ]
+      }
+    },
+    {
+      "name": "MaSagaBB",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_saga_bb",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mcaic/models/block/ma_saga_bb.json",
+          "src/main/resources/assets/mcaic/blockstates/ma_saga_bb.json",
+          "src/main/resources/assets/mcaic/models/item/ma_saga_bb.json",
+          "src/main/java/top/pf43/mcaic/block/MaSagaBBBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "LMaSagaBB",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_ma_saga_bb",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mcaic/models/item/l_ma_saga_bb.json",
+          "src/main/resources/assets/mcaic/blockstates/l_ma_saga_bb.json",
+          "src/main/resources/assets/mcaic/models/block/l_ma_saga_bb.json",
+          "src/main/java/top/pf43/mcaic/block/LMaSagaBBBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "LMaSagaBG",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_ma_saga_bg",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mcaic/models/item/l_ma_saga_bg.json",
+          "src/main/java/top/pf43/mcaic/block/LMaSagaBGBlock.java",
+          "src/main/resources/assets/mcaic/blockstates/l_ma_saga_bg.json",
+          "src/main/resources/assets/mcaic/models/block/l_ma_saga_bg.json"
+        ]
+      }
+    },
+    {
+      "name": "MaSagaBG",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_saga_bg",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mcaic/models/item/ma_saga_bg.json",
+          "src/main/resources/assets/mcaic/blockstates/ma_saga_bg.json",
+          "src/main/java/top/pf43/mcaic/block/MaSagaBGBlock.java",
+          "src/main/resources/assets/mcaic/models/block/ma_saga_bg.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -379,22 +447,28 @@
       "item_group.mcaic.mcaic": "Mcaic",
       "item.mcaic.mastaff": "法杖小棍",
       "painting.mcaic.noel_pdd.title": "Noel PDD",
+      "block.mcaic.l_ma_saga_bb": "L Ma Saga BB",
       "item.mcaic.crystalstaff": "诺艾儿·柯涅尔的大法杖",
+      "block.mcaic.l_ma_saga_bg": "L Ma Saga BG",
       "subtitles.mcaic_noel_battle": "ginkiha - 紡ぐ者の森(Battle)",
       "block.mcaic.ma_dm": "魔法植物-大菌类",
-      "block.mcaic.ma_saga_test": "Ma Saga Test",
       "block.mcaic.ma_jm": "魔法植物-尖蘑菇",
+      "block.mcaic.ma_saga_test": "Ma Saga Test",
       "painting.mcaic.noeland_t.title": "像素画：诺艾儿与老师",
       "block.mcaic.mapgy": "魔法植物-蒲公英",
       "item.mcaic.re_noel_battle": "ginkiha - 紡ぐ者の森(Battle)",
       "subtitles.mcaic.noel.battle": "ginkiha - 紡ぐ者の森(Battle)",
+      "block.mcaic.l_ma_saga_qb": "L Ma Saga QB",
       "item.mcaic.test_1_spawn_egg": "Test 1 Spawn Egg",
       "item.mcaic.macrystal": "法杖水晶",
       "block.mcaic.ma_f": "魔法植物-花",
+      "block.mcaic.ma_saga_qb": "Ma Saga QB",
       "block.mcaic.ma_jy": "魔法植物-蕨类叶子",
       "item.mcaic.noel": "吉祥雾（物）",
       "block.mcaic.mcaictbc": "MCAICTBC",
+      "block.mcaic.ma_saga_bg": "Ma Saga BG",
       "item.mcaic.re_noel_bsp": "编织者森林（战斗曲）唱片碎片",
+      "block.mcaic.ma_saga_bb": "Ma Saga BB",
       "item.mcaic.re_noel_battle.desc": "ginkiha - 紡ぐ者の森(Battle)",
       "painting.mcaic.noel_pdd.author": "橋野みずは",
       "block.mcaic.ma_jue": "魔法植物-蕨类",

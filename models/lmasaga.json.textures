@@ -5,6 +5,24 @@
         "0": "lmasaga"
       },
       "name": "default"
+    },
+    "l_ma_saga_qb": {
+      "map": {
+        "0": "lmasagaqb"
+      },
+      "name": "l_ma_saga_qb"
+    },
+    "l_ma_saga_bb": {
+      "map": {
+        "0": "lmasagabb"
+      },
+      "name": "l_ma_saga_bb"
+    },
+    "l_ma_saga_bg": {
+      "map": {
+        "0": "lmasagabg"
+      },
+      "name": "l_ma_saga_bg"
     }
   }
 }
