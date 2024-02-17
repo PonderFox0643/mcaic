@@ -23,6 +23,24 @@
         "0": "masagabg"
       },
       "name": "ma_saga_bg"
+    },
+    "ma_saga_yy": {
+      "map": {
+        "0": "masagayy"
+      },
+      "name": "ma_saga_yy"
+    },
+    "ma_saga_zz": {
+      "map": {
+        "0": "masagazz"
+      },
+      "name": "ma_saga_zz"
+    },
+    "ma_saga_ff": {
+      "map": {
+        "0": "masagaff"
+      },
+      "name": "ma_saga_ff"
     }
   }
 }

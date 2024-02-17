@@ -32,8 +32,6 @@ public class McaicModTabs {
 				tabData.accept(McaicModBlocks.MAPGY.get().asItem());
 				tabData.accept(McaicModBlocks.MA_JY.get().asItem());
 				tabData.accept(McaicModBlocks.L_MA_ROGE.get().asItem());
-				tabData.accept(McaicModBlocks.L_MA_SAGA_TEST.get().asItem());
-				tabData.accept(McaicModBlocks.MA_SAGA_TEST.get().asItem());
 				tabData.accept(McaicModItems.TEST_1_SPAWN_EGG.get());
 				tabData.accept(McaicModBlocks.MA_SAGA_QB.get().asItem());
 				tabData.accept(McaicModBlocks.L_MA_SAGA_QB.get().asItem());
@@ -41,6 +39,12 @@ public class McaicModTabs {
 				tabData.accept(McaicModBlocks.L_MA_SAGA_BB.get().asItem());
 				tabData.accept(McaicModBlocks.L_MA_SAGA_BG.get().asItem());
 				tabData.accept(McaicModBlocks.MA_SAGA_BG.get().asItem());
+				tabData.accept(McaicModBlocks.MA_SAGA_ZZ.get().asItem());
+				tabData.accept(McaicModBlocks.L_MA_SAGA_ZZ.get().asItem());
+				tabData.accept(McaicModBlocks.MA_SAGA_YY.get().asItem());
+				tabData.accept(McaicModBlocks.L_MA_SAGA_YY.get().asItem());
+				tabData.accept(McaicModBlocks.MA_SAGA_FF.get().asItem());
+				tabData.accept(McaicModBlocks.L_MA_SAGA_FF.get().asItem());
 			})
 
 					.build());

@@ -296,8 +296,8 @@
       "registry_name": "l_ma_saga_test",
       "metadata": {
         "files": [
-          "src/main/resources/assets/mcaic/blockstates/l_ma_saga_test.json",
           "src/main/resources/assets/mcaic/models/block/l_ma_saga_test.json",
+          "src/main/resources/assets/mcaic/blockstates/l_ma_saga_test.json",
           "src/main/java/top/pf43/mcaic/block/LMaSagaTestBlock.java",
           "src/main/resources/assets/mcaic/models/item/l_ma_saga_test.json"
         ]
@@ -313,9 +313,9 @@
       "metadata": {
         "files": [
           "src/main/java/top/pf43/mcaic/block/MaSagaTestBlock.java",
-          "src/main/resources/assets/mcaic/models/item/ma_saga_test.json",
+          "src/main/resources/assets/mcaic/models/block/ma_saga_test.json",
           "src/main/resources/assets/mcaic/blockstates/ma_saga_test.json",
-          "src/main/resources/assets/mcaic/models/block/ma_saga_test.json"
+          "src/main/resources/assets/mcaic/models/item/ma_saga_test.json"
         ]
       }
     },
@@ -399,6 +399,22 @@
       }
     },
     {
+      "name": "MaSagaBG",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_saga_bg",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mcaic/models/item/ma_saga_bg.json",
+          "src/main/resources/assets/mcaic/blockstates/ma_saga_bg.json",
+          "src/main/java/top/pf43/mcaic/block/MaSagaBGBlock.java",
+          "src/main/resources/assets/mcaic/models/block/ma_saga_bg.json"
+        ]
+      }
+    },
+    {
       "name": "LMaSagaBG",
       "type": "block",
       "sortid": 30,
@@ -415,18 +431,98 @@
       }
     },
     {
-      "name": "MaSagaBG",
+      "name": "MaSagaZZ",
       "type": "block",
-      "sortid": 31,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "ma_saga_bg",
+      "registry_name": "ma_saga_zz",
       "metadata": {
         "files": [
-          "src/main/resources/assets/mcaic/models/item/ma_saga_bg.json",
-          "src/main/resources/assets/mcaic/blockstates/ma_saga_bg.json",
-          "src/main/java/top/pf43/mcaic/block/MaSagaBGBlock.java",
-          "src/main/resources/assets/mcaic/models/block/ma_saga_bg.json"
+          "src/main/resources/assets/mcaic/models/item/ma_saga_zz.json",
+          "src/main/java/top/pf43/mcaic/block/MaSagaZZBlock.java",
+          "src/main/resources/assets/mcaic/models/block/ma_saga_zz.json",
+          "src/main/resources/assets/mcaic/blockstates/ma_saga_zz.json"
+        ]
+      }
+    },
+    {
+      "name": "LMaSagaZZ",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_ma_saga_zz",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mcaic/models/block/l_ma_saga_zz.json",
+          "src/main/java/top/pf43/mcaic/block/LMaSagaZZBlock.java",
+          "src/main/resources/assets/mcaic/blockstates/l_ma_saga_zz.json",
+          "src/main/resources/assets/mcaic/models/item/l_ma_saga_zz.json"
+        ]
+      }
+    },
+    {
+      "name": "MaSagaYY",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_saga_yy",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mcaic/models/block/ma_saga_yy.json",
+          "src/main/resources/assets/mcaic/blockstates/ma_saga_yy.json",
+          "src/main/resources/assets/mcaic/models/item/ma_saga_yy.json",
+          "src/main/java/top/pf43/mcaic/block/MaSagaYYBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "LMaSagaYY",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_ma_saga_yy",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mcaic/blockstates/l_ma_saga_yy.json",
+          "src/main/resources/assets/mcaic/models/block/l_ma_saga_yy.json",
+          "src/main/java/top/pf43/mcaic/block/LMaSagaYYBlock.java",
+          "src/main/resources/assets/mcaic/models/item/l_ma_saga_yy.json"
+        ]
+      }
+    },
+    {
+      "name": "MaSagaFF",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ma_saga_ff",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mcaic/models/item/ma_saga_ff.json",
+          "src/main/java/top/pf43/mcaic/block/MaSagaFFBlock.java",
+          "src/main/resources/assets/mcaic/models/block/ma_saga_ff.json",
+          "src/main/resources/assets/mcaic/blockstates/ma_saga_ff.json"
+        ]
+      }
+    },
+    {
+      "name": "LMaSagaFF",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_ma_saga_ff",
+      "metadata": {
+        "files": [
+          "src/main/java/top/pf43/mcaic/block/LMaSagaFFBlock.java",
+          "src/main/resources/assets/mcaic/blockstates/l_ma_saga_ff.json",
+          "src/main/resources/assets/mcaic/models/block/l_ma_saga_ff.json",
+          "src/main/resources/assets/mcaic/models/item/l_ma_saga_ff.json"
         ]
       }
     }
@@ -448,10 +544,13 @@
       "item.mcaic.mastaff": "法杖小棍",
       "painting.mcaic.noel_pdd.title": "Noel PDD",
       "block.mcaic.l_ma_saga_bb": "L Ma Saga BB",
+      "block.mcaic.l_ma_saga_zz": "L Ma Saga ZZ",
+      "block.mcaic.l_ma_saga_ff": "L Ma Saga FF",
       "item.mcaic.crystalstaff": "诺艾儿·柯涅尔的大法杖",
       "block.mcaic.l_ma_saga_bg": "L Ma Saga BG",
       "subtitles.mcaic_noel_battle": "ginkiha - 紡ぐ者の森(Battle)",
       "block.mcaic.ma_dm": "魔法植物-大菌类",
+      "block.mcaic.ma_saga_yy": "Ma Saga yy",
       "block.mcaic.ma_jm": "魔法植物-尖蘑菇",
       "block.mcaic.ma_saga_test": "Ma Saga Test",
       "painting.mcaic.noeland_t.title": "像素画：诺艾儿与老师",
@@ -466,9 +565,12 @@
       "block.mcaic.ma_jy": "魔法植物-蕨类叶子",
       "item.mcaic.noel": "吉祥雾（物）",
       "block.mcaic.mcaictbc": "MCAICTBC",
+      "block.mcaic.l_ma_saga_yy": "L Ma Saga YY",
       "block.mcaic.ma_saga_bg": "Ma Saga BG",
       "item.mcaic.re_noel_bsp": "编织者森林（战斗曲）唱片碎片",
       "block.mcaic.ma_saga_bb": "Ma Saga BB",
+      "block.mcaic.ma_saga_zz": "Ma Saga ZZ",
+      "block.mcaic.ma_saga_ff": "Ma Saga FF",
       "item.mcaic.re_noel_battle.desc": "ginkiha - 紡ぐ者の森(Battle)",
       "painting.mcaic.noel_pdd.author": "橋野みずは",
       "block.mcaic.ma_jue": "魔法植物-蕨类",
@@ -489,7 +591,7 @@
     "version": "0.0.1",
     "description": "这是一个在我的世界中的Alice In Cradle模组，至少是的",
     "author": "九尾狐白给使者（PonderFox0643）",
-    "websiteURL": "https://mcaic.aliceincradle.net/",
+    "websiteURL": "http://www.aicmod.top//",
     "license": "GNU General Public License version 3 (GPLv3)",
     "disableForgeVersionCheck": false,
     "serverSideOnly": false,

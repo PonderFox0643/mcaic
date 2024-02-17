@@ -2,14 +2,14 @@
   "_fv": 47,
   "_type": "block",
   "definition": {
-    "texture": "lmasaga",
+    "texture": "lmasagayy",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "lmasaga:default",
+    "customModelName": "lmasaga:l_ma_saga_yy",
     "rotationMode": 0,
     "enablePitch": false,
     "emissiveRendering": false,
@@ -168,14 +168,14 @@
         "subtract": false
       }
     ],
-    "name": "L Ma Saga Test",
+    "name": "L Ma Saga YY",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "No creative tab entry"
+      "value": "CUSTOM:Mcaic"
     },
     "destroyTool": "Not specified",
     "customDrop": {

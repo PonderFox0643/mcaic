@@ -175,7 +175,7 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:Mcaic"
+      "value": "No creative tab entry"
     },
     "destroyTool": "Not specified",
     "customDrop": {

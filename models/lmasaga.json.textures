@@ -23,6 +23,24 @@
         "0": "lmasagabg"
       },
       "name": "l_ma_saga_bg"
+    },
+    "l_ma_saga_yy": {
+      "map": {
+        "0": "lmasagayy"
+      },
+      "name": "l_ma_saga_yy"
+    },
+    "l_ma_saga_zz": {
+      "map": {
+        "0": "lmasagazz"
+      },
+      "name": "l_ma_saga_zz"
+    },
+    "l_ma_saga_ff": {
+      "map": {
+        "0": "lmasagaff"
+      },
+      "name": "l_ma_saga_ff"
     }
   }
 }

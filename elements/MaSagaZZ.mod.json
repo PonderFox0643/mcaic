@@ -2,14 +2,14 @@
   "_fv": 47,
   "_type": "block",
   "definition": {
-    "texture": "lmasaga",
+    "texture": "masagazz",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "lmasaga:default",
+    "customModelName": "masaga:ma_saga_zz",
     "rotationMode": 0,
     "enablePitch": false,
     "emissiveRendering": false,
@@ -25,7 +25,7 @@
     "boundingBoxes": [
       {
         "mx": 7.3,
-        "my": 1.8,
+        "my": 11.8,
         "mz": 7.3,
         "Mx": 7.7,
         "My": 16.2,
@@ -34,148 +34,148 @@
       },
       {
         "mx": 7.25,
-        "my": 6.25,
+        "my": 14.25,
         "mz": 6.75,
         "Mx": 7.75,
-        "My": 6.75,
+        "My": 14.75,
         "Mz": 7.25,
         "subtract": false
       },
       {
         "mx": 7.25,
-        "my": 6.25,
+        "my": 14.25,
         "mz": 7.75,
         "Mx": 7.75,
-        "My": 6.75,
+        "My": 14.75,
         "Mz": 8.25,
         "subtract": false
       },
       {
         "mx": 6.75,
-        "my": 6.25,
+        "my": 14.25,
         "mz": 7.25,
         "Mx": 7.25,
-        "My": 6.75,
+        "My": 14.75,
         "Mz": 7.75,
         "subtract": false
       },
       {
         "mx": 7.75,
-        "my": 6.25,
+        "my": 14.25,
         "mz": 7.25,
         "Mx": 8.25,
-        "My": 6.75,
+        "My": 14.75,
         "Mz": 7.75,
         "subtract": false
       },
       {
         "mx": 7.0,
-        "my": 0.0,
+        "my": 8.0,
         "mz": 7.0,
         "Mx": 8.0,
-        "My": 2.0,
+        "My": 10.0,
         "Mz": 8.0,
         "subtract": false
       },
       {
         "mx": 7.0,
-        "my": 0.0,
+        "my": 8.0,
         "mz": 7.0,
         "Mx": 8.0,
-        "My": 2.0,
+        "My": 10.0,
         "Mz": 8.0,
         "subtract": false
       },
       {
         "mx": 7.0,
-        "my": 0.0,
+        "my": 8.0,
         "mz": 7.0,
         "Mx": 8.0,
-        "My": 2.0,
+        "My": 10.0,
         "Mz": 8.0,
         "subtract": false
       },
       {
         "mx": 7.0,
-        "my": 0.0,
+        "my": 8.0,
         "mz": 7.0,
         "Mx": 8.0,
-        "My": 2.0,
+        "My": 10.0,
         "Mz": 8.0,
         "subtract": false
       },
       {
         "mx": 7.0,
-        "my": -0.35,
+        "my": 7.65,
         "mz": 7.0,
         "Mx": 8.0,
-        "My": 1.65,
+        "My": 9.65,
         "Mz": 8.0,
         "subtract": false
       },
       {
         "mx": 6.15,
-        "my": 1.45,
+        "my": 9.45,
         "mz": 6.15,
         "Mx": 8.85,
-        "My": 2.15,
+        "My": 10.15,
         "Mz": 8.85,
         "subtract": false
       },
       {
         "mx": 7.0,
-        "my": 2.0,
+        "my": 10.0,
         "mz": 7.0,
         "Mx": 8.0,
-        "My": 4.0,
+        "My": 12.0,
         "Mz": 8.0,
         "subtract": false
       },
       {
         "mx": 7.0,
-        "my": 2.0,
+        "my": 10.0,
         "mz": 7.0,
         "Mx": 8.0,
-        "My": 4.0,
+        "My": 12.0,
         "Mz": 8.0,
         "subtract": false
       },
       {
         "mx": 7.0,
-        "my": 2.0,
+        "my": 10.0,
         "mz": 7.0,
         "Mx": 8.0,
-        "My": 4.0,
+        "My": 12.0,
         "Mz": 8.0,
         "subtract": false
       },
       {
         "mx": 7.0,
-        "my": 2.0,
+        "my": 10.0,
         "mz": 7.0,
         "Mx": 8.0,
-        "My": 4.0,
+        "My": 12.0,
         "Mz": 8.0,
         "subtract": false
       },
       {
         "mx": 7.0,
-        "my": 2.0,
+        "my": 10.0,
         "mz": 7.0,
         "Mx": 8.0,
-        "My": 4.0,
+        "My": 12.0,
         "Mz": 8.0,
         "subtract": false
       }
     ],
-    "name": "L Ma Saga Test",
+    "name": "Ma Saga ZZ",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "No creative tab entry"
+      "value": "CUSTOM:Mcaic"
     },
     "destroyTool": "Not specified",
     "customDrop": {

@@ -47,6 +47,12 @@ public class McaicModItems {
 	public static final RegistryObject<Item> L_MA_SAGA_BB = block(McaicModBlocks.L_MA_SAGA_BB);
 	public static final RegistryObject<Item> L_MA_SAGA_BG = block(McaicModBlocks.L_MA_SAGA_BG);
 	public static final RegistryObject<Item> MA_SAGA_BG = block(McaicModBlocks.MA_SAGA_BG);
+	public static final RegistryObject<Item> MA_SAGA_ZZ = block(McaicModBlocks.MA_SAGA_ZZ);
+	public static final RegistryObject<Item> L_MA_SAGA_ZZ = block(McaicModBlocks.L_MA_SAGA_ZZ);
+	public static final RegistryObject<Item> MA_SAGA_YY = block(McaicModBlocks.MA_SAGA_YY);
+	public static final RegistryObject<Item> L_MA_SAGA_YY = block(McaicModBlocks.L_MA_SAGA_YY);
+	public static final RegistryObject<Item> MA_SAGA_FF = block(McaicModBlocks.MA_SAGA_FF);
+	public static final RegistryObject<Item> L_MA_SAGA_FF = block(McaicModBlocks.L_MA_SAGA_FF);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));
