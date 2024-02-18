@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:green_dye"
+    },
+    "1": {
+      "item": "mcaic:l_ma_roge"
+    },
+    "2": {
+      "item": "minecraft:green_dye"
+    },
+    "3": {
+      "item": "minecraft:glass_pane"
+    },
+    "5": {
+      "item": "minecraft:glass_pane"
+    },
+    "6": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "7": {
+      "item": "minecraft:glass_pane"
+    },
+    "8": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "mcaic:ma_saga_bg",
+    "count": 4
+  }
+}

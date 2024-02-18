@@ -328,9 +328,9 @@
       "registry_name": "test_1",
       "metadata": {
         "files": [
-          "src/main/resources/assets/mcaic/models/item/test_1_spawn_egg.json",
           "src/main/java/top/pf43/mcaic/client/renderer/Test1Renderer.java",
-          "src/main/java/top/pf43/mcaic/entity/Test1Entity.java"
+          "src/main/java/top/pf43/mcaic/entity/Test1Entity.java",
+          "src/main/resources/assets/mcaic/models/item/test_1_spawn_egg.json"
         ]
       }
     },
@@ -525,6 +525,201 @@
           "src/main/resources/assets/mcaic/models/item/l_ma_saga_ff.json"
         ]
       }
+    },
+    {
+      "name": "CMaSagaQB",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "c_ma_saga_qb",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mcaic/recipes/c_ma_saga_qb.json"
+        ]
+      }
+    },
+    {
+      "name": "CLMaSagaQB",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cl_ma_saga_qb",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mcaic/recipes/cl_ma_saga_qb.json"
+        ]
+      }
+    },
+    {
+      "name": "CMaSagaBB",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "c_ma_saga_bb",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mcaic/recipes/c_ma_saga_bb.json"
+        ]
+      }
+    },
+    {
+      "name": "CLMaSagaBB",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cl_ma_saga_bb",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mcaic/recipes/cl_ma_saga_bb.json"
+        ]
+      }
+    },
+    {
+      "name": "CMaSagaBG",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "c_ma_saga_bg",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mcaic/recipes/c_ma_saga_bg.json"
+        ]
+      }
+    },
+    {
+      "name": "CLMaSagaBG",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cl_ma_saga_bg",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mcaic/recipes/cl_ma_saga_bg.json"
+        ]
+      }
+    },
+    {
+      "name": "CMaSagaZZ",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "c_ma_saga_zz",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mcaic/recipes/c_ma_saga_zz.json"
+        ]
+      }
+    },
+    {
+      "name": "CLMaSagaZZ",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cl_ma_saga_zz",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mcaic/recipes/cl_ma_saga_zz.json"
+        ]
+      }
+    },
+    {
+      "name": "CMaSagaYY",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "c_ma_saga_yy",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mcaic/recipes/c_ma_saga_yy.json"
+        ]
+      }
+    },
+    {
+      "name": "CLMaSagaYY",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cl_ma_saga_yy",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mcaic/recipes/cl_ma_saga_yy.json"
+        ]
+      }
+    },
+    {
+      "name": "CMaSagaFF",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "c_ma_saga_ff",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mcaic/recipes/c_ma_saga_ff.json"
+        ]
+      }
+    },
+    {
+      "name": "CLMaSagaFF",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cl_ma_saga_ff",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mcaic/recipes/cl_ma_saga_ff.json"
+        ]
+      }
+    },
+    {
+      "name": "CLMaRoge",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cl_ma_roge",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mcaic/recipes/cl_ma_roge.json"
+        ]
+      }
+    },
+    {
+      "name": "CMacrystal",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "c_macrystal",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mcaic/recipes/c_macrystal.json"
+        ]
+      }
+    },
+    {
+      "name": "CMastaff",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "c_mastaff",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mcaic/recipes/c_mastaff.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -541,44 +736,85 @@
   "language_map": {
     "en_us": {
       "item_group.mcaic.mcaic": "Mcaic",
+      "item.mcaic.mastaff": "Staff Small Stick",
+      "painting.mcaic.noel_pdd.title": "Noel PDD",
+      "block.mcaic.l_ma_saga_bb": "Long Crystal Chandelier Light Blue",
+      "block.mcaic.l_ma_saga_zz": "Long Crystal Chandelier Crimson",
+      "block.mcaic.l_ma_saga_ff": "Long Crystal Chandelier Pink",
+      "item.mcaic.crystalstaff": "Noel Cornwell\u0027s Great Staff",
+      "block.mcaic.l_ma_saga_bg": "Long Crystal Chandelier Green",
+      "subtitles.mcaic_noel_battle": "ginkiha - 紡ぐ者の森(Battle)",
+      "block.mcaic.ma_dm": "Magic Plant - Large Fungi",
+      "block.mcaic.ma_saga_yy": "Half-Grid Crystal Chandelier Yellow",
+      "block.mcaic.ma_jm": "Magic Plant - Sharp Mushroom",
+      "block.mcaic.ma_saga_test": "Half-Grid Crystal Chandelier Test",
+      "painting.mcaic.noeland_t.title": "Pixel Art: Noel and Teacher",
+      "block.mcaic.mapgy": "Magic Plant - Dandelion",
+      "item.mcaic.re_noel_battle": "ginkiha - 紡ぐ者の森(Battle)",
+      "subtitles.mcaic.noel.battle": "ginkiha - 紡ぐ者の森(Battle)",
+      "block.mcaic.l_ma_saga_qb": "Long Crystal Chandelier Cyan",
+      "item.mcaic.test_1_spawn_egg": "Test 1 Spawn Egg",
+      "item.mcaic.macrystal": "Staff Crystal",
+      "block.mcaic.ma_f": "Magic Plant - Flower",
+      "block.mcaic.ma_saga_qb": "Half-Grid Crystal Chandelier Cyan",
+      "block.mcaic.ma_jy": "Magic Plant - Fern Leaf",
+      "item.mcaic.noel": "Auspicious Mist (Project)",
+      "block.mcaic.mcaictbc": "MCAICTBC",
+      "block.mcaic.l_ma_saga_yy": "Long Crystal Chandelier Yellow",
+      "block.mcaic.ma_saga_bg": "Half-Grid Crystal Chandelier Green",
+      "item.mcaic.re_noel_bsp": "ginkiha - 紡ぐ者の森(Battle)",
+      "block.mcaic.ma_saga_bb": "Half-Grid Crystal Chandelier Light Blue",
+      "block.mcaic.ma_saga_zz": "Half-Grid Crystal Chandelier Crimson",
+      "block.mcaic.ma_saga_ff": "Half-Grid Crystal Chandelier Pink",
+      "item.mcaic.re_noel_battle.desc": "ginkiha - 紡ぐ者の森(Battle)",
+      "painting.mcaic.noel_pdd.author": "橋野みずは",
+      "block.mcaic.ma_jue": "Magic Plant - Fern",
+      "block.mcaic.l_ma_saga_test": "Long Crystal Chandelier Test",
+      "block.mcaic.ma_xm": "Magic Plant - Small Fungi",
+      "entity.mcaic.test_1": "Test 1",
+      "painting.mcaic.noeland_t.author": "橋野みずは",
+      "block.mcaic.l_ma_roge": "Crystal Chandelier Hanging Cord"
+    },
+    "zh_cn": {
+      "item_group.mcaic.mcaic": "Mcaic",
       "item.mcaic.mastaff": "法杖小棍",
       "painting.mcaic.noel_pdd.title": "Noel PDD",
-      "block.mcaic.l_ma_saga_bb": "L Ma Saga BB",
-      "block.mcaic.l_ma_saga_zz": "L Ma Saga ZZ",
-      "block.mcaic.l_ma_saga_ff": "L Ma Saga FF",
+      "block.mcaic.l_ma_saga_bb": "长水晶吊灯淡蓝色",
+      "block.mcaic.l_ma_saga_zz": "长水晶吊灯品红色",
+      "block.mcaic.l_ma_saga_ff": "长水晶吊灯粉红色",
       "item.mcaic.crystalstaff": "诺艾儿·柯涅尔的大法杖",
-      "block.mcaic.l_ma_saga_bg": "L Ma Saga BG",
+      "block.mcaic.l_ma_saga_bg": "长水晶吊灯绿色",
       "subtitles.mcaic_noel_battle": "ginkiha - 紡ぐ者の森(Battle)",
       "block.mcaic.ma_dm": "魔法植物-大菌类",
-      "block.mcaic.ma_saga_yy": "Ma Saga yy",
+      "block.mcaic.ma_saga_yy": "半格水晶吊灯黄色",
       "block.mcaic.ma_jm": "魔法植物-尖蘑菇",
-      "block.mcaic.ma_saga_test": "Ma Saga Test",
+      "block.mcaic.ma_saga_test": "半格水晶吊灯 Test",
       "painting.mcaic.noeland_t.title": "像素画：诺艾儿与老师",
       "block.mcaic.mapgy": "魔法植物-蒲公英",
       "item.mcaic.re_noel_battle": "ginkiha - 紡ぐ者の森(Battle)",
       "subtitles.mcaic.noel.battle": "ginkiha - 紡ぐ者の森(Battle)",
-      "block.mcaic.l_ma_saga_qb": "L Ma Saga QB",
+      "block.mcaic.l_ma_saga_qb": "长水晶吊灯青色",
       "item.mcaic.test_1_spawn_egg": "Test 1 Spawn Egg",
       "item.mcaic.macrystal": "法杖水晶",
       "block.mcaic.ma_f": "魔法植物-花",
-      "block.mcaic.ma_saga_qb": "Ma Saga QB",
+      "block.mcaic.ma_saga_qb": "半格水晶吊灯青色",
       "block.mcaic.ma_jy": "魔法植物-蕨类叶子",
       "item.mcaic.noel": "吉祥雾（物）",
       "block.mcaic.mcaictbc": "MCAICTBC",
-      "block.mcaic.l_ma_saga_yy": "L Ma Saga YY",
-      "block.mcaic.ma_saga_bg": "Ma Saga BG",
+      "block.mcaic.l_ma_saga_yy": "长水晶吊灯黄色",
+      "block.mcaic.ma_saga_bg": "半格水晶吊灯绿色",
       "item.mcaic.re_noel_bsp": "编织者森林（战斗曲）唱片碎片",
-      "block.mcaic.ma_saga_bb": "Ma Saga BB",
-      "block.mcaic.ma_saga_zz": "Ma Saga ZZ",
-      "block.mcaic.ma_saga_ff": "Ma Saga FF",
+      "block.mcaic.ma_saga_bb": "半格水晶吊灯淡蓝色",
+      "block.mcaic.ma_saga_zz": "半格水晶吊灯品红色",
+      "block.mcaic.ma_saga_ff": "半格水晶吊灯粉红色",
       "item.mcaic.re_noel_battle.desc": "ginkiha - 紡ぐ者の森(Battle)",
       "painting.mcaic.noel_pdd.author": "橋野みずは",
       "block.mcaic.ma_jue": "魔法植物-蕨类",
-      "block.mcaic.l_ma_saga_test": "L Ma Saga Test",
+      "block.mcaic.l_ma_saga_test": "长水晶吊灯 Test",
       "block.mcaic.ma_xm": "魔法植物-小菌类",
       "entity.mcaic.test_1": "Test 1",
       "painting.mcaic.noeland_t.author": "橋野みずは",
-      "block.mcaic.l_ma_roge": "L Ma Roge"
+      "block.mcaic.l_ma_roge": "水晶吊灯挂绳"
     }
   },
   "foldersRoot": {
